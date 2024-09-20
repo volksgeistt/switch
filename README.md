@@ -9,7 +9,7 @@
 - **Download the files above**
 - **Browse the in your directory**
 - **Open `userAccounts.json` file and setup your config**
-- **Save it and run the `start.bat` file from the
+- **Save it and run the `start.bat` file from the**
 ## userAccounts Config Setup Example
 ```json
 {
