@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "userToken": "TOKEN_ONE_HERE",
+      "settingsList": [
+        {"custom_status": {"text": "Coffee"}, "status": "online"},
+        {"custom_status": {"text": "Tea"}, "status": "idle"},
+        {"custom_status": {"text": "Gaming"}, "status": "dnd"}
+      ]
+    },
+    {
+      "userToken": "TOKEN_TWO_HERE",
+      "settingsList": [
+        {"custom_status": {"text": "Working"}, "status": "online"},
+        {"custom_status": {"text": "Coding"}, "status": "dnd"}
+      ]
+    } 
+    // you can add more ACCOUNTS ~ ( remove this line before using )
+  ],
+  "interval": 10
+}
+
